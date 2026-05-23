@@ -1,0 +1,98 @@
+aid: morgan-lewis
+name: Morgan, Lewis & Bockius LLP
+description: >-
+  Morgan, Lewis & Bockius LLP is a global Am Law 10 firm with approximately
+  2,200 lawyers and 39 offices across North America, Europe, Asia, and the
+  Middle East. The firm provides corporate, transactional, litigation, and
+  regulatory services across energy, financial services, healthcare, life
+  sciences, retail and ecommerce, sports, technology, and transportation,
+  with widely recognized depth in employee benefits and executive compensation,
+  fintech and financial services regulation, intellectual property, and M&A.
+  Morgan Lewis does not publish a public developer API, SDK, OpenAPI spec,
+  or machine-readable data product; its public technology surface is limited
+  to its corporate website, an email-alert subscription managed through a
+  Real Magnet (REACTION) marketing platform, and a portfolio of LexBlog-style
+  practice blogs covering specific subject areas.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Legal
+  - Law Firm
+  - Am Law 10
+  - Employee Benefits
+  - Fintech
+  - Intellectual Property
+  - Mergers And Acquisitions
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/morgan-lewis/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+common:
+  - type: Website
+    url: https://www.morganlewis.com
+  - type: AboutUs
+    url: https://www.morganlewis.com/our-firm
+  - type: Locations
+    url: https://www.morganlewis.com/locations
+  - type: People
+    url: https://www.morganlewis.com/our-people
+  - type: News
+    url: https://www.morganlewis.com/news
+  - type: Insights
+    url: https://www.morganlewis.com/pubs
+  - type: Events
+    url: https://www.morganlewis.com/events
+  - type: Blogs
+    url: https://www.morganlewis.com/blogs
+  - type: Blog
+    name: As Prescribed
+    url: https://www.morganlewis.com/blogs/asprescribed
+  - type: Blog
+    name: Data Center Bytes
+    url: https://www.morganlewis.com/blogs/datacenterbytes
+  - type: Blog
+    name: Health Law Scan
+    url: https://www.morganlewis.com/blogs/healthlawscan
+  - type: Blog
+    name: ML BeneBits
+    url: https://www.morganlewis.com/blogs/mlbenebits
+  - type: Blog
+    name: Government Contractor Guidebook
+    url: https://www.morganlewis.com/blogs/governmentcontractorguidebook
+  - type: Blog
+    name: Power & Pipes
+    url: https://www.morganlewis.com/blogs/powerandpipes
+  - type: Blog
+    name: Shifting Sands of Labor Law
+    url: https://www.morganlewis.com/blogs/shiftingsandsoflaborlaw
+  - type: Blog
+    name: Tech & Sourcing
+    url: https://www.morganlewis.com/blogs/techandsourcing
+  - type: Blog
+    name: Up & Atom
+    url: https://www.morganlewis.com/blogs/upandatom
+  - type: Blog
+    name: Well Done
+    url: https://www.morganlewis.com/blogs/welldone
+  - type: Subscribe
+    url: https://www.morganlewis.com/subscribe
+  - type: Careers
+    url: https://www.morganlewis.com/careers
+  - type: Alumni
+    url: https://www.morganlewis.com/alumni
+  - type: ProBono
+    url: https://www.morganlewis.com/our-firm/pro-bono
+  - type: TermsOfUse
+    url: https://www.morganlewis.com/terms-of-use
+  - type: PrivacyPolicy
+    url: https://www.morganlewis.com/privacy-policy
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/morgan-lewis-&-bockius
+  - type: Twitter
+    url: https://twitter.com/MorganLewisLaw
+  - type: YouTube
+    url: https://www.youtube.com/user/MorganLewisLaw
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com

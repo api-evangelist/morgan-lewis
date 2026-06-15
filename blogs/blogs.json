@@ -2,17 +2,6 @@
   "repo": "morgan-lewis",
   "feeds": [
     {
-      "source": "https://www.morganlewis.com/events",
-      "error": "HTTPError"
-    },
-    {
-      "source": "https://www.morganlewis.com/blogs",
-      "feed_url": "https://www.morganlewis.com/blogs",
-      "title": "",
-      "saved": 0,
-      "method": "none"
-    },
-    {
       "source": "https://www.morganlewis.com/blogs/asprescribed",
       "feed_url": "https://www.morganlewis.com/blogs/asprescribed",
       "title": "",
@@ -62,17 +51,35 @@
       "method": "none"
     },
     {
-      "source": "https://www.morganlewis.com/blogs/techandsourcing",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://www.morganlewis.com/blogs/upandatom",
       "feed_url": "https://www.morganlewis.com/blogs/upandatom",
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://www.morganlewis.com/blogs/welldone",
+      "feed_url": "https://www.morganlewis.com/blogs/welldone",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.morganlewis.com/events",
+      "error": "HTTPError"
+    },
+    {
+      "source": "https://www.morganlewis.com/blogs",
+      "feed_url": "https://www.morganlewis.com/blogs",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.morganlewis.com/blogs/techandsourcing",
+      "error": "HTTPError"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-06-01T23:35:02Z"
+  "post_count": 5,
+  "fetched": "2026-06-14T20:42:17Z"
 }

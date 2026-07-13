@@ -2,25 +2,78 @@
   "repo": "morgan-lewis",
   "feeds": [
     {
+      "source": "https://www.morganlewis.com/events",
+      "error": "HTTPError"
+    },
+    {
       "source": "https://www.morganlewis.com/blogs",
-      "feed_url": "",
+      "feed_url": "https://www.morganlewis.com/blogs",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
+    },
+    {
+      "source": "https://www.morganlewis.com/blogs/asprescribed",
+      "feed_url": "https://www.morganlewis.com/blogs/asprescribed",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.morganlewis.com/blogs/datacenterbytes",
+      "feed_url": "https://www.morganlewis.com/blogs/datacenterbytes",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.morganlewis.com/blogs/healthlawscan",
+      "feed_url": "https://www.morganlewis.com/blogs/healthlawscan",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.morganlewis.com/blogs/mlbenebits",
+      "feed_url": "https://www.morganlewis.com/blogs/mlbenebits",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     },
     {
       "source": "https://www.morganlewis.com/blogs/governmentcontractorguidebook",
-      "feed_url": "",
-      "saved": 1,
-      "method": "agent-scrape"
+      "feed_url": "https://www.morganlewis.com/blogs/governmentcontractorguidebook",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.morganlewis.com/blogs/powerandpipes",
+      "feed_url": "https://www.morganlewis.com/blogs/powerandpipes",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.morganlewis.com/blogs/shiftingsandsoflaborlaw",
+      "feed_url": "https://www.morganlewis.com/blogs/shiftingsandsoflaborlaw",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.morganlewis.com/blogs/techandsourcing",
+      "error": "HTTPError"
     },
     {
       "source": "https://www.morganlewis.com/blogs/upandatom",
-      "feed_url": "",
+      "feed_url": "https://www.morganlewis.com/blogs/upandatom",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
-  "post_count": 11,
-  "fetched": "2026-06-27T12:55:03Z",
-  "agent_pulled": "2026-06-27"
+  "post_count": 12,
+  "fetched": "2026-07-11T11:50:51Z",
+  "agent_pulled": "2026-07-04"
 }

@@ -2,10 +2,6 @@
   "repo": "morgan-lewis",
   "feeds": [
     {
-      "source": "https://www.morganlewis.com/events",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://www.morganlewis.com/blogs",
       "feed_url": "https://www.morganlewis.com/blogs",
       "title": "",
@@ -62,18 +58,22 @@
       "method": "none"
     },
     {
-      "source": "https://www.morganlewis.com/blogs/techandsourcing",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://www.morganlewis.com/blogs/upandatom",
       "feed_url": "https://www.morganlewis.com/blogs/upandatom",
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://www.morganlewis.com/events",
+      "error": "HTTPError"
+    },
+    {
+      "source": "https://www.morganlewis.com/blogs/techandsourcing",
+      "error": "HTTPError"
     }
   ],
   "post_count": 12,
-  "fetched": "2026-07-11T11:50:51Z",
+  "fetched": "2026-08-01T15:49:00Z",
   "agent_pulled": "2026-07-04"
 }

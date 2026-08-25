@@ -6,72 +6,63 @@
       "feed_url": "https://www.morganlewis.com/blogs",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     },
     {
       "source": "https://www.morganlewis.com/blogs/asprescribed",
       "feed_url": "https://www.morganlewis.com/blogs/asprescribed",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     },
     {
       "source": "https://www.morganlewis.com/blogs/datacenterbytes",
       "feed_url": "https://www.morganlewis.com/blogs/datacenterbytes",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     },
     {
       "source": "https://www.morganlewis.com/blogs/healthlawscan",
       "feed_url": "https://www.morganlewis.com/blogs/healthlawscan",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     },
     {
       "source": "https://www.morganlewis.com/blogs/mlbenebits",
       "feed_url": "https://www.morganlewis.com/blogs/mlbenebits",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     },
     {
       "source": "https://www.morganlewis.com/blogs/governmentcontractorguidebook",
       "feed_url": "https://www.morganlewis.com/blogs/governmentcontractorguidebook",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     },
     {
       "source": "https://www.morganlewis.com/blogs/powerandpipes",
       "feed_url": "https://www.morganlewis.com/blogs/powerandpipes",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     },
     {
       "source": "https://www.morganlewis.com/blogs/shiftingsandsoflaborlaw",
       "feed_url": "https://www.morganlewis.com/blogs/shiftingsandsoflaborlaw",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     },
     {
       "source": "https://www.morganlewis.com/blogs/upandatom",
       "feed_url": "https://www.morganlewis.com/blogs/upandatom",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     },
     {
       "source": "https://www.morganlewis.com/events",
@@ -83,6 +74,6 @@
     }
   ],
   "post_count": 12,
-  "fetched": "2026-08-15T12:11:08Z",
+  "fetched": "2026-08-22T20:20:02Z",
   "agent_pulled": "2026-07-04"
 }

@@ -1,5 +1,5 @@
 aid: morgan-lewis
-name: Morgan, Lewis & Bockius LLP
+name: Morgan Lewis
 description: >-
   Morgan, Lewis & Bockius LLP is a global Am Law 10 firm with approximately
   2,200 lawyers and 39 offices across North America, Europe, Asia, and the
@@ -128,3 +128,4 @@ common:
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
+x-legal-name: Morgan, Lewis & Bockius LLP

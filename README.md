@@ -1,4 +1,4 @@
-# morgan-lewis
+# Morgan Lewis
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Profile for Morgan, Lewis & Bockius LLP in the API Evangelist network. Global Am Law 10 law firm with approximately 2,200 lawyers and 39 offices. No public developer APIs; document index covers the firm's website, practice insights, and LexBlog-style practice blogs.
+Morgan, Lewis & Bockius LLP is a global Am Law 10 firm with approximately 2,200 lawyers and 39 offices across North America, Europe, Asia, and the Middle East. The firm provides corporate, transactional, litigation, and regulatory services across energy, financial services, healthcare, life sciences, retail and ecommerce, sports, technology, and transportation, with widely recognized depth in employee benefits and executive compensation, fintech and financial services regulation, intellectual property, and M&A. Morgan Lewis does not publish a public developer API, SDK, OpenAPI spec, or machine-readable data product; its public technology surface is limited to its corporate website, an email-alert subscription managed through a Real Magnet (REACTION) marketing platform, and a portfolio of LexBlog-style practice blogs covering specific subject areas.
+
+**Areas:** Legal · Law Firms · Am Law 10 · Employee Benefits · Fintech · Intellectual Property · Mergers and Acquisitions
+
+## Morgan Lewis on APIs.io
+
+Everything profiled for Morgan Lewis is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/morgan-lewis/](https://apis.io/providers/morgan-lewis/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Morgan Lewis Domain Security](https://apis.io/security/morgan-lewis/morgan-lewis-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.morganlewis.com)
+- [Blog](https://www.morganlewis.com/blogs)
+- [Terms of service](https://www.morganlewis.com/terms-of-use)
+- [Privacy policy](https://www.morganlewis.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 8.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 43.8 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/morgan-lewis/](https://apis.io/providers/morgan-lewis/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Morgan Lewis: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/morgan-lewis/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
